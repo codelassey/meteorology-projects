@@ -1,7 +1,7 @@
 # Boundary Layer Height Analysis for Navrongo and Tema
 
 ## Overview
-This repository contains a [Jupyter notebook](`/GROUP6.ipynb`) that analyzes boundary layer height (BLH) data for two locations in Ghana, Navrongo and Tema, on January 1, 2000. The notebook visualizes BLH over a 24-hour period (12 AM to 12 AM) using data from the European Centre for Medium-Range Weather Forecasts (ECMWF). The plot includes markers for diurnal times (12 AM, 6 AM, 12 PM, 6 PM) and typical minimum (6 AM) and maximum (3 PM) temperature times.
+This repository contains a [Jupyter notebook](`GROUP6.ipynb`) that analyzes boundary layer height (BLH) data for two locations in Ghana, Navrongo and Tema, on January 1, 2000. The notebook visualizes BLH over a 24-hour period (12 AM to 12 AM) using data from the European Centre for Medium-Range Weather Forecasts (ECMWF). The plot includes markers for diurnal times (12 AM, 6 AM, 12 PM, 6 PM) and typical minimum (6 AM) and maximum (3 PM) temperature times.
 
 ## Features
 - Data Source: ECMWF dataset with BLH values across a grid (latitude: 4.5°N to 11.5°N, longitude: -3.5°E to 1.5°E) for 24 hourly time steps.
